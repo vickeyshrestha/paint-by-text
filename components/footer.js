@@ -48,12 +48,7 @@ export default function Footer({ events, startOver, handleImageDropped }) {
 
       <div className="text-center lil-text mt-8">
       <div className="inline-block py-2 px-4 border border-yellow-200 rounded-lg bg-[#fef6aa]">
-      🤔 Are you a developer and want to learn how to build this? Check out the{" "}
-        <Link
-          href="https://github.com/replicate/paint-with-words#readme"
-          target="_blank">
-          README
-        </Link>.
+      🤔 The rendering job time might take somewhere between 30 seconds to 3 minutes. Please be patience while the instruction is being processed.
       </div>
       </div>
 
