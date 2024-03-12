@@ -53,7 +53,7 @@ export default function Footer({ events, startOver, handleImageDropped }) {
       </div>
 
       <div className="text-center lil-text mt-8">
-        Vickey Shrestha 2024
+          © 2024 Vickey Shrestha
       </div>
     </footer>
   );
