@@ -1,6 +1,5 @@
 import Dropzone from "components/dropzone";
 import {
-  Code as CodeIcon,
   Download as DownloadIcon,
   Info as InfoIcon,
   XCircle as StartOverIcon,
@@ -35,15 +34,6 @@ export default function Footer({ events, startOver, handleImageDropped }) {
             <DownloadIcon className="icon" />Download image
           </Link>)
         )}
-
-        <Link
-          href="https://github.com/replicate/instruct-pix2pix-demo"
-          className="lil-button"
-          target="_blank"
-          rel="noopener noreferrer">
-
-          <CodeIcon className="icon" />Fork repo
-        </Link>
       </div>
 
       <div className="text-center lil-text mt-8">
