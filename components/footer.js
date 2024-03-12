@@ -53,24 +53,7 @@ export default function Footer({ events, startOver, handleImageDropped }) {
       </div>
 
       <div className="text-center lil-text mt-8">
-        Powered by{" "}
-        <Link href="https://www.timothybrooks.com/instruct-pix2pix/" target="_blank">
-          InstructPix2Pix
-        </Link>
-        ,{" "}
-        <Link
-          href="https://replicate.com/timothybrooks/instruct-pix2pix?utm_source=project&utm_campaign=paintbytext"
-          target="_blank">
-          Replicate
-        </Link>
-        ,{" "}
-        <Link href="https://vercel.com/templates/ai" target="_blank">
-          Vercel
-        </Link>
-        , and{" "}
-        <Link href="https://github.com/replicate/instruct-pix2pix-demo" target="_blank">
-          GitHub
-        </Link>
+        Vickey Shrestha 2024
       </div>
     </footer>
   );
